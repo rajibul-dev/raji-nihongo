@@ -2,8 +2,8 @@
   "compilerOptions": {
     "jsx": "react",
     "target": "ES2022",
-    "module": "NodeNext",
-    "moduleResolution": "NodeNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
     "allowJs": true,
     "noEmitOnError": true,
     "outDir": "dist"
